@@ -1,6 +1,6 @@
 # Horizen AI — Website
 
-> AI sistemi koji skaliraju vaš biznis
+> AI systems that scale your business
 
 **Live:** [horizen-website.vercel.app](https://horizen-website.vercel.app)
 
@@ -8,28 +8,28 @@
 
 ---
 
-## O projektu
+## About
 
-Marketing websajt za **Horizen AI** — agenciju koja gradi AI automatizacije, sisteme za generaciju klijenata i inteligentne workflow procese za firme u Srbiji i regionu.
+Marketing website for **Horizen AI** — an agency building AI automations, lead generation systems, and intelligent workflow processes for businesses in Serbia and the region.
 
-Sajt pokriva:
-- Usluge (AI automatizacija, AI Recepcionar, lead gen)
-- Case studies i rezultati klijenata
-- Proces saradnje
-- Kontakt forma
+The site covers:
+- Services (AI automation, AI Receptionist, lead gen)
+- Client results & case studies
+- Collaboration process
+- Contact form
 
 ## Tech Stack
 
-| Tehnologija | Uloga |
+| Technology | Role |
 |---|---|
 | React + TypeScript | UI framework |
-| Vite | Build alat |
-| TanStack Router | Klijentski routing |
-| Tailwind CSS | Stilizovanje |
-| Framer Motion | Animacije |
-| Radix UI | Komponente |
-| Vercel | Hosting / Deploy |
+| Vite | Build tool |
+| TanStack Router | Client-side routing |
+| Tailwind CSS | Styling |
+| Framer Motion | Animations |
+| Radix UI | Component primitives |
+| Vercel | Hosting / Deployment |
 
 ---
 
-*Izvorni kod je privatan. Ovaj repo služi kao showcase.*
+*Source code is private. This repo serves as a showcase only.*
