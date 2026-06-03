@@ -2,7 +2,7 @@
 
 > AI systems that scale your business
 
-**Live:** [horizen-website.vercel.app](https://horizen.rs)
+**Live:** [horizen.rs](https://horizen.rs)
 
 ![Horizen AI](./hero.png)
 
